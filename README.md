@@ -2,7 +2,6 @@
   <img src="logo.png" width="200" alt="DeepGrad Logo"/>
 </p>
 
-<h1 align="center">DeepGrad</h1>
 <p align="center"><em>A lightweight and modular deep learning framework</em></p>
 
 ---
